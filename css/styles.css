@@ -7,6 +7,7 @@
   src: url("fonts/Mont-HeavyDEMO.woff") format('woff')
 }
 
+/*Хз, шрифт хуйня ебаная, надо новый искать*/
 
 body {
   background: linear-gradient(to right, #0D9488, #1D1D20);
@@ -18,6 +19,7 @@ body {
   font-family: Inter, sans-serif;
   color: white;
 }
+
 footer {
   background-color: #1D1D20;
   color: white;
@@ -65,3 +67,18 @@ nav a{
   margin-right: 84px;
   display: inline-block;
 }
+
+.sellect { /*боже блять убейте*/
+  background-color: rgb(29, 29, 32, 40%);
+  color: #0D9488;
+  border: none;
+  padding: 10px 30px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 40px;
+  font-size: 20px;
+
+}
+
+
+
